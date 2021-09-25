@@ -1,6 +1,6 @@
 # Test-Cases
 
-Below are some test cases , that i wrote  while working on projects.
+Below are some Test Cases Sample, that i wrote  while working on projects.
 
 .........................................
 
